@@ -1,0 +1,25 @@
+.modal{
+    display: relative;
+    width: 40%;
+    font-size:14px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(189, 194, 182);
+    margin-left: 30%; 
+    margin-top: 3%;
+    padding: 15px;
+    border-radius: 20px;
+}
+.confirm{
+    margin-left: 45%;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+.ok{
+    margin-left: 40%;
+    margin-top: 7%;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 15px;
+}

@@ -1,25 +1,23 @@
-import logo from './logo.svg';
 import './App.css';
+// import Getdata from './Getdata';
+// // import Getdata from './Getdata';
+// import Home_task from './Task/Home_task'; 
+// import Project from './Project';
+import Crypto from './Crypto';
+import Popup from './Popup';
+import Colourchange from './Colourchange';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+       {/* <Crypto/>  */}
+      <Popup/>
+      <Colourchange/>
     </div>
   );
 }
 
 export default App;
+ 

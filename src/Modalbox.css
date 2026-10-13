@@ -1,0 +1,61 @@
+.modal{
+    width: 25%;
+    height: 70vh;
+    font-size:14px ;
+    margin-left: 30%; 
+    margin-top: 5%;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: white;
+    background-image:src('./accordino.jpeg');
+}
+
+.Head{
+    margin-top: 80%;
+    text-align: center;
+}
+
+
+.btn{
+    cursor: pointer;
+    margin-left: 10%;
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    width: 80%;
+    border: none;
+    border-radius: 10px;
+}
+
+
+
+.cursor{
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    margin-left: 90%;
+    margin-top: 3%;
+}
+
+
+
+/* .modal{
+    display: relative;
+    width: 40%;
+    font-size:14px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(189, 194, 182);
+    margin-left: 30%; 
+    margin-top: 3%;
+    padding: 15px;
+    border-radius: 20px;
+}
+.confirm{
+    margin-left: 45%;
+
+}
+.ok{
+    margin-left: 40%;
+    margin-top: 7%;
+} */
