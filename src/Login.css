@@ -1,0 +1,27 @@
+.container{
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: 60px;
+    margin-left: 40%;
+    width: 20%;
+    background-color: aqua;
+
+}
+
+.name{
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+
+.pass{
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+
+.btn{
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
